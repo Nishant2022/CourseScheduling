@@ -1,0 +1,294 @@
+NUMBER 1
+
+Grade: 9, Number: 100
+Grade: 10, Number: 107
+Grade: 11, Number: 106
+Grade: 12, Number: 93
+Running command: cplex < call\callcplexCourse.txt > output\courseSolutionInput.txt && exit
+Process complete
+Running command: cplex < call\callcplexStudent.txt > output\studentSolutionOutput.txt && exit
+Process complete
+Running command: cplex < call\callcplexCombined.txt > output\combinedSolutionOutput.txt && exit
+Process complete
+
+
+First Come First Serve Distribution:
+Choice 1: 239
+Choice 2: 156
+Choice 3: 86
+Choice 4: 26
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+First Come First Serve Score: 1622
+
+Student Solve Distribution: 
+Choice 1: 384
+Choice 2: 107
+Choice 3: 18
+Choice 4: 1
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Student Solve Score: 1894
+
+Combined Solve Distribution
+Choice 1: 389
+Choice 2: 113
+Choice 3: 11
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Combined Score: 1917
+
+
+Done
+
+NUMBER 2
+
+Grade: 9, Number: 146
+Grade: 10, Number: 142
+Grade: 11, Number: 114
+Grade: 12, Number: 112
+Running command: cplex < call\callcplexCourse.txt > output\courseSolutionInput.txt && exit
+Process complete
+Running command: cplex < call\callcplexStudent.txt > output\studentSolutionOutput.txt && exit
+Process complete
+Running command: cplex < call\callcplexCombined.txt > output\combinedSolutionOutput.txt && exit
+Process complete
+
+
+First Come First Serve Distribution:
+Choice 1: 288
+Choice 2: 131
+Choice 3: 54
+Choice 4: 17
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+First Come First Serve Score: 1670
+
+Student Solve Distribution: 
+Choice 1: 428
+Choice 2: 63
+Choice 3: 1
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Student Solve Score: 1903
+
+Combined Solve Distribution
+Choice 1: 430
+Choice 2: 62
+Choice 3: 0
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Combined Score: 1906
+
+
+Done
+
+NUMBER 3
+
+Grade: 9, Number: 148
+Grade: 10, Number: 136
+Grade: 11, Number: 136
+Grade: 12, Number: 154
+Running command: cplex < call\callcplexCourse.txt > output\courseSolutionInput.txt && exit
+Process complete
+Running command: cplex < call\callcplexStudent.txt > output\studentSolutionOutput.txt && exit
+Process complete
+Running command: cplex < call\callcplexCombined.txt > output\combinedSolutionOutput.txt && exit
+Process complete
+
+
+First Come First Serve Distribution:
+Choice 1: 259
+Choice 2: 147
+Choice 3: 67
+Choice 4: 29
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+First Come First Serve Score: 1640
+
+Student Solve Distribution: 
+Choice 1: 490
+Choice 2: 12
+Choice 3: 0
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Student Solve Score: 1996
+
+Combined Solve Distribution
+Choice 1: 490
+Choice 2: 12
+Choice 3: 0
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Combined Score: 1996
+
+
+Done
+
+NUMBER 4
+
+Grade: 9, Number: 127
+Grade: 10, Number: 141
+Grade: 11, Number: 117
+Grade: 12, Number: 124
+Running command: cplex < call\callcplexCourse.txt > output\courseSolutionInput.txt && exit
+Process complete
+Running command: cplex < call\callcplexStudent.txt > output\studentSolutionOutput.txt && exit
+Process complete
+Running command: cplex < call\callcplexCombined.txt > output\combinedSolutionOutput.txt && exit
+Process complete
+
+
+First Come First Serve Distribution:
+Choice 1: 289
+Choice 2: 153
+Choice 3: 68
+Choice 4: 34
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+First Come First Serve Score: 1785
+
+Student Solve Distribution: 
+Choice 1: 468
+Choice 2: 72
+Choice 3: 4
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Student Solve Score: 2096
+
+Combined Solve Distribution
+Choice 1: 468
+Choice 2: 74
+Choice 3: 2
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Combined Score: 2098
+
+
+Done
+
+NUMBER 5
+
+Grade: 9, Number: 139
+Grade: 10, Number: 130
+Grade: 11, Number: 122
+Grade: 12, Number: 124
+Running command: cplex < call\callcplexCourse.txt > output\courseSolutionInput.txt && exit
+Process complete
+Running command: cplex < call\callcplexStudent.txt > output\studentSolutionOutput.txt && exit
+Process complete
+Running command: cplex < call\callcplexCombined.txt > output\combinedSolutionOutput.txt && exit
+Process complete
+
+
+First Come First Serve Distribution:
+Choice 1: 264
+Choice 2: 164
+Choice 3: 98
+Choice 4: 37
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+First Come First Serve Score: 1781
+
+Student Solve Distribution: 
+Choice 1: 461
+Choice 2: 100
+Choice 3: 2
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Student Solve Score: 2148
+
+Combined Solve Distribution
+Choice 1: 464
+Choice 2: 98
+Choice 3: 1
+Choice 4: 0
+Choice 5: 0
+Choice 6: 0
+Choice 7: 0
+Choice 8: 0
+Choice 9: 0
+Choice 10: 0
+
+Combined Score: 2152
+
+
+Done

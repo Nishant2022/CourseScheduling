@@ -1,0 +1,6 @@
+set timelimit 120
+set mip tolerances mipgap 0.0001
+re output\combinedSolveOutputWithTeacher.lp
+opt
+disp sol var -
+quit

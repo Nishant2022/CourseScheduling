@@ -1,0 +1,6 @@
+set timelimit 900
+set mip tolerances mipgap 0.0001
+re output\courseOutput.lp
+opt
+disp sol var -
+quit

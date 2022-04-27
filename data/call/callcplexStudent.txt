@@ -1,0 +1,4 @@
+re output\studentOutput.lp
+opt
+disp sol var -
+quit

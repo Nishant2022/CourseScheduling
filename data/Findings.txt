@@ -1,0 +1,10 @@
+Findings:
+Before Teacher Change
+Seed 1 - small difference
+Seed 2 - large difference
+Seed 3 - small difference
+Seed 4 - large difference
+Seed 100 - large difference
+
+After Teacher Preference Change
+Seed 100 - large difference
